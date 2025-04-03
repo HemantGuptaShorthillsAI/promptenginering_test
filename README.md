@@ -1,4 +1,4 @@
-# Nifty 50 Stock Analysis
+# Prompt Engineering Test
 
 ## Overview
 This script fetches and analyzes stock data from the Nifty 50 index using the NSE India API. It identifies top gainers, losers, and stocks with significant price movements relative to their 52-week highs and lows.
